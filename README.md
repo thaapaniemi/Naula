@@ -2,6 +2,7 @@
 
 Naula static thumbnail gallery generator
 
+[Example gallery](http://thaapaniemi.github.io/Naula/index.html)
 
 ## Requirements
 * Python3
